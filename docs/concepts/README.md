@@ -95,6 +95,17 @@ The Event Generation allows a CAM Service and Application to generate events and
 ## Conclusions and Perspectives <a name="conclusions">
 
 #TODO
+Data monetization
+Transforming data into a monetizable asset will be key focus area for most companies to increase revenue :
+
+Direct data monetization ​
+entails offering direct access of data to third parties or downstream vendors, allowing them to further enhance and refine the data for their specific
+purpose. Companies can sell the data it in raw form, or in a form that’s transformed into analysis and insights.
+
+Indirect data monetization ​
+Involves analyzing data to reveal insights that can​
+
+improve your organization’s business performance, by deriving profits through market optimization. 
 
 ## References <a name="references">
 
