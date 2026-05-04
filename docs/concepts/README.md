@@ -88,13 +88,64 @@ The Event Generation allows a CAM Service and Application to generate events and
 ![Event Generation](../images/eventgen.jpg)
 
 
-## Busisses exploitation of the 5GMETA  Platform <a name="business">
+## Business exploitation of the 5GMETA  Platform <a name="business">
 
-#TODO
+## 5GMETA Business Models
+
+* **A neutral platform** automotive data available to interested third-party service providers in a safe and secure manner, without requiring those third parties to be linked directly or sign a contract with each automotive manufacturer.
+
+* **A B2B Unique Selling Points (USPs)** with publish / Subscribe model for Data Providers and Data Consumers
+the platform does not use any storage or data analytics. It acts as a dynamic hub where various stakeholders in the automotive industry (vehicle manufacturers, mobility service providers, infrastructure companies, and technology developers) to securely exchange and monetize data as per valuable use cases such as enhancing autonomous vehicle systems, improving traffic management, or personalizing mobility services.
+
+* **Different pricing strategy** of data providers could be based on: volume, metering data usage, fixed, data subscription, revenue sharing, tiered, negotiated, auction or bidding
+
+**Note**: the spread between the selling price (access cost) and the cost price  (publish cost) must also consider the variable costs arising from network services and cloud services (platform cost)
+
+## 5GMETA data monetization framework
+
+![Platform arch](../images/data-monet.png)
+
+
+
 
 ## Conclusions and Perspectives <a name="conclusions">
 
-#TODO
+## Data monetization
+
+**Transforming data into a monetizable asset will be key focus area for most companies to increase revenue :**
+
+* **Direct data monetization** entails offering direct access of data to third parties  or downstream vendors, allowing them to further enhance and refine the data for their specific purpose. Companies can sell the data it in raw form, or in a form that’s transformed into analysis and insights.
+
+* **Indirect monetization** Involves analyzing data to reveal insights that can improve your organization’s business performance, by deriving profits through market optimization. 
+
+![Platform arch](../images/direct-indirect-data-monet.png)  
+
+Here are some prospects that seem likely to us for the next 10 years
+
+## Automative Revenue Mix
+
+![Platform arch](../images/auto-rev-mix.png)  
+
+## Emerging Revenue Stream - MaaS
+
+![Platform arch](../images/maas.png) 
+
+## Emerging Revenue Stream - Car-as-a-Platform
+
+![Platform arch](../images/car-as-a-platform.png) 
+
+## Winning Strategy Towards Data Monetization
+
+The market environment is ripe for the automotive industry to activate data as an incremental revenue stream. Ecosystem around data are well established in technology/telecom industries which will influence adoption in automotive as industries converge. However, the industry needs to embrace structural changes to enable data-as-an-asset concept.
+
+## Key considerations for a Winning Data Monetization Strategy
+
+* **Ambition**: achievable data strategy
+* **Choice of Use Cases**: choose use cases having synergies with the company’s strategy
+* **Build an Ecosystem**: a data-driven business will require working relationships with a wide array of players from adjacent ecosystems to own best aspects of car data monetization.
+* **Scalability**: companies will need to acquire internal capabilities and set up a support structure for data to scale into a mainstream revenue pocket.
+
+![Platform arch](../images/car-in-world.png) 
 
 ## References <a name="references">
 
